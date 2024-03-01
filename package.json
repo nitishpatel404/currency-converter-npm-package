@@ -1,0 +1,26 @@
+{
+  "name": "nitish-patel-currency-converter",
+  "version": "1.0.0",
+  "type":"module",
+  "description": "\"this is my first package for currency coverter\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitishpatel404/currency-converter-npm-package.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Nitish Kr Patel",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/nitishpatel404/currency-converter-npm-package/issues"
+  },
+  "homepage": "https://github.com/nitishpatel404/currency-converter-npm-package#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
